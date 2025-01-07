@@ -20,9 +20,12 @@ git clone <repository-url>
 cd gcd-calculator
 ```
 
-## Usage
+## Installation Options
 
-### Command Line Interface
+cargo install gcd-calculator-cli
+
+
+### CLI Tool
 
 To calculate GCD using the CLI:
 ```bash
